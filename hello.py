@@ -1,0 +1,1 @@
+print("le hai hoang " , "CNTT01 " , "ly do hoc python :)) " )
